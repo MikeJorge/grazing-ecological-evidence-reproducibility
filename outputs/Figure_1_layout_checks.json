@@ -1,0 +1,153 @@
+{
+  "box_text_fit": [
+    {
+      "box": "protocol",
+      "fits": true,
+      "box_px": [
+        14.4,
+        590.625,
+        691.2,
+        70.875
+      ],
+      "text_px": [
+        147.5,
+        610.9625,
+        425.0,
+        30.200000000000045
+      ]
+    },
+    {
+      "box": "soil",
+      "fits": true,
+      "box_px": [
+        14.4,
+        472.5,
+        331.2,
+        81.0
+      ],
+      "text_px": [
+        60.625,
+        491.5,
+        238.75,
+        43.0
+      ]
+    },
+    {
+      "box": "safeguard",
+      "fits": true,
+      "box_px": [
+        374.40000000000003,
+        472.5,
+        331.2,
+        81.0
+      ],
+      "text_px": [
+        399.6875,
+        491.5,
+        280.625,
+        43.0
+      ]
+    },
+    {
+      "box": "eligibility",
+      "fits": true,
+      "box_px": [
+        14.4,
+        371.25,
+        691.2,
+        67.5
+      ],
+      "text_px": [
+        140.5,
+        391.0,
+        439.0,
+        28.0
+      ]
+    },
+    {
+      "box": "V",
+      "fits": true,
+      "box_px": [
+        14.4,
+        266.625,
+        216.0,
+        67.5
+      ],
+      "text_px": [
+        35.775000000000006,
+        285.275,
+        173.25,
+        30.200000000000045
+      ]
+    },
+    {
+      "box": "A",
+      "fits": true,
+      "box_px": [
+        252.0,
+        266.625,
+        216.0,
+        67.5
+      ],
+      "text_px": [
+        281.5625,
+        285.275,
+        156.875,
+        30.200000000000045
+      ]
+    },
+    {
+      "box": "I",
+      "fits": true,
+      "box_px": [
+        489.6,
+        266.625,
+        216.0,
+        67.5
+      ],
+      "text_px": [
+        548.4125,
+        285.275,
+        98.375,
+        30.200000000000045
+      ]
+    },
+    {
+      "box": "profile",
+      "fits": true,
+      "box_px": [
+        14.4,
+        162.0,
+        691.2,
+        74.25
+      ],
+      "text_px": [
+        159.0,
+        177.625,
+        402.0,
+        43.0
+      ]
+    },
+    {
+      "box": "decision",
+      "fits": true,
+      "box_px": [
+        14.4,
+        13.5,
+        691.2,
+        101.25
+      ],
+      "text_px": [
+        163.1875,
+        32.825,
+        393.625,
+        62.599999999999994
+      ]
+    }
+  ],
+  "font_file": "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf",
+  "font_sha256": "3fdf69cabf06049ea70a00b5919340e2ce1e6d02b0cc3c4b44fb6801bd1e0d22",
+  "minimum_label_pt_at_configured_width": 9.5,
+  "configured_width_inches": 7.2,
+  "image_generation": "Python vector primitives only"
+}

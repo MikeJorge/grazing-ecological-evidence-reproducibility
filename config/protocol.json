@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "baseline_sha256": "7fa29dbab06e9df4aa004e2e176b7b22dee818ea6fe005c51278ffa7a669f0ed",
+  "criteria": [
+    "K1",
+    "K2",
+    "K3"
+  ],
+  "orientations": {
+    "K1": "target minus panel",
+    "K2": "panel minus target",
+    "K3": "negative gross conversion"
+  },
+  "criticality": "Author-selected necessary conditions for this limited joint claim; not universal ecological criticality",
+  "supports": {
+    "stock": {
+      "unit": "Mg C ha^-1",
+      "definition": "Spatial mean over fixed equivalent soil mass corresponding to nominal 0–30 cm"
+    },
+    "sediment": {
+      "unit": "Mg ha^-1",
+      "definition": "Representative plot-outlet mass per area over complete concurrent window"
+    },
+    "conversion": {
+      "unit": "ha",
+      "definition": "Fixed F; gross union of baseline-native locations converted at any time in [0,5], counted once"
+    }
+  },
+  "quantities": {
+    "stock": {
+      "support_id": "stock",
+      "time_support": [
+        "5"
+      ]
+    },
+    "panel_stock": {
+      "support_id": "stock",
+      "time_support": [
+        "5"
+      ]
+    },
+    "sediment": {
+      "support_id": "sediment",
+      "time_support": [
+        "4",
+        "5"
+      ]
+    },
+    "panel_sediment": {
+      "support_id": "sediment",
+      "time_support": [
+        "4",
+        "5"
+      ]
+    },
+    "conversion": {
+      "support_id": "conversion",
+      "time_support": [
+        "0",
+        "5"
+      ]
+    },
+    "baseline_stock": {
+      "support_id": "stock",
+      "time_support": [
+        "0"
+      ]
+    }
+  },
+  "duration_years": "5",
+  "panel": "Prespecified compatible contemporary mean; no causal counterfactual or recovery target",
+  "duplicates": "Exact duplicates deduplicated; conflicting records halt",
+  "missingness": "Explicit missing/ineligible records remain unknown with reasons",
+  "exact_zero": "No tolerance; no rounding before sign classification"
+}

@@ -1,0 +1,206 @@
+{
+  "cases": [
+    {
+      "case": "A",
+      "change": null,
+      "indetermination_reasons": {
+        "K1": null,
+        "K2": "sediment: sediment unavailable",
+        "K3": "eligible interval spans the decision boundary"
+      },
+      "joint": "V",
+      "margins": {
+        "K1": [
+          "-12",
+          "-4"
+        ],
+        "K2": null,
+        "K3": [
+          "-0.3",
+          "0"
+        ]
+      },
+      "profile": [
+        "V",
+        "I",
+        "I"
+      ],
+      "rate": null,
+      "temporal_missing_reason": "baseline stock not supplied",
+      "units": {
+        "K1": "Mg C ha^-1",
+        "K2": "Mg ha^-1 over (4,5]",
+        "K3": "ha over [0,5]",
+        "change": "Mg C ha^-1",
+        "rate": "Mg C ha^-1 yr^-1"
+      }
+    },
+    {
+      "case": "B",
+      "change": null,
+      "indetermination_reasons": {
+        "K1": null,
+        "K2": null,
+        "K3": "eligible interval spans the decision boundary"
+      },
+      "joint": "I",
+      "margins": {
+        "K1": [
+          "2",
+          "10"
+        ],
+        "K2": [
+          "0.4",
+          "1"
+        ],
+        "K3": [
+          "-0.3",
+          "0"
+        ]
+      },
+      "profile": [
+        "A",
+        "A",
+        "I"
+      ],
+      "rate": null,
+      "temporal_missing_reason": "baseline stock not supplied",
+      "units": {
+        "K1": "Mg C ha^-1",
+        "K2": "Mg ha^-1 over (4,5]",
+        "K3": "ha over [0,5]",
+        "change": "Mg C ha^-1",
+        "rate": "Mg C ha^-1 yr^-1"
+      }
+    },
+    {
+      "case": "C",
+      "change": null,
+      "indetermination_reasons": {
+        "K1": null,
+        "K2": null,
+        "K3": null
+      },
+      "joint": "V",
+      "margins": {
+        "K1": [
+          "2",
+          "10"
+        ],
+        "K2": [
+          "0.4",
+          "1"
+        ],
+        "K3": [
+          "-0.6",
+          "-0.4"
+        ]
+      },
+      "profile": [
+        "A",
+        "A",
+        "V"
+      ],
+      "rate": null,
+      "temporal_missing_reason": "baseline stock not supplied",
+      "units": {
+        "K1": "Mg C ha^-1",
+        "K2": "Mg ha^-1 over (4,5]",
+        "K3": "ha over [0,5]",
+        "change": "Mg C ha^-1",
+        "rate": "Mg C ha^-1 yr^-1"
+      }
+    },
+    {
+      "case": "D",
+      "change": [
+        "6",
+        "12"
+      ],
+      "indetermination_reasons": {
+        "K1": null,
+        "K2": null,
+        "K3": "eligible interval spans the decision boundary"
+      },
+      "joint": "V",
+      "margins": {
+        "K1": [
+          "-12",
+          "-4"
+        ],
+        "K2": [
+          "0.4",
+          "1"
+        ],
+        "K3": [
+          "-0.3",
+          "0"
+        ]
+      },
+      "profile": [
+        "V",
+        "A",
+        "I"
+      ],
+      "rate": [
+        "1.2",
+        "2.4"
+      ],
+      "temporal_missing_reason": null,
+      "units": {
+        "K1": "Mg C ha^-1",
+        "K2": "Mg ha^-1 over (4,5]",
+        "K3": "ha over [0,5]",
+        "change": "Mg C ha^-1",
+        "rate": "Mg C ha^-1 yr^-1"
+      }
+    },
+    {
+      "case": "E",
+      "change": [
+        "-10",
+        "-4"
+      ],
+      "indetermination_reasons": {
+        "K1": null,
+        "K2": null,
+        "K3": "eligible interval spans the decision boundary"
+      },
+      "joint": "I",
+      "margins": {
+        "K1": [
+          "2",
+          "10"
+        ],
+        "K2": [
+          "0.4",
+          "1"
+        ],
+        "K3": [
+          "-0.3",
+          "0"
+        ]
+      },
+      "profile": [
+        "A",
+        "A",
+        "I"
+      ],
+      "rate": [
+        "-2",
+        "-0.8"
+      ],
+      "temporal_missing_reason": null,
+      "units": {
+        "K1": "Mg C ha^-1",
+        "K2": "Mg ha^-1 over (4,5]",
+        "K3": "ha over [0,5]",
+        "change": "Mg C ha^-1",
+        "rate": "Mg C ha^-1 yr^-1"
+      }
+    }
+  ],
+  "coverage_claim": null,
+  "synthetic": true,
+  "uncertainty_kind": "assumed_bounds"
+}

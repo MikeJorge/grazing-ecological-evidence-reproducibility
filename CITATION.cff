@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this versioned reproducibility package."
+type: software
+title: "Matching ecological indicator claims to evidence in grazing assessment — reproducibility materials"
+authors:
+  - family-names: "Allim Jorge"
+    given-names: "Michael"
+version: "1.2.1"
+date-released: "2026-10-19"
+doi: "10.5281/zenodo.23483050"
+url: "https://doi.org/10.5281/zenodo.23483050"
+repository-code: "https://github.com/MikeJorge/grazing-ecological-evidence-reproducibility"
+license:
+  - MIT
+  - CC-BY-4.0
+abstract: "Deterministic reproduction of five stipulated synthetic cases and a conceptual figure. Licenses apply to separate file categories as described in NOTICE.md and metadata/file_rights.json. No field observations or ecological validation are supplied."
+keywords:
+  - ecological indicators
+  - grazing assessment
+  - synthetic examples
+  - evidence interpretation
+  - reproducibility

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "manifest_schema_version",
+    "release_version",
+    "baseline_sha256",
+    "source_files",
+    "configuration_files",
+    "input_files",
+    "command",
+    "python_version",
+    "packages",
+    "os",
+    "backend",
+    "fonts",
+    "locale",
+    "timezone",
+    "determinism_settings",
+    "execution_started_utc",
+    "execution_result",
+    "output_files",
+    "sha256_by_path"
+  ]
+}

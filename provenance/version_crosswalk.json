@@ -1,0 +1,14 @@
+{
+  "artifact_version": "v1.0.0",
+  "scientific_version": "v1.2.1",
+  "release_status": "NOT_RELEASED",
+  "historical_workflow_label": "v0.2.0",
+  "historical_canonical_scientific_version": "v1.2.0",
+  "output_canonical_scientific_version": "v1.2.1",
+  "frozen_input_path": "data/synthetic_inputs.json",
+  "frozen_input_sha256": "0f4bd5813c366262a0e0af455144a6458b3b96b9e7cf62a05e564d84674ed12a",
+  "historical_source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2",
+  "current_source_locator": "ECOLOGICAL_INDICATORS_SUPPLEMENTARY_INFORMATION_v1.2.1: S2/Table S1 and S3.2/Table S2",
+  "scientific_content_delta": "Frozen synthetic inputs, protocol, expected outputs, figure source/configuration, and all 18 generated outputs are byte-identical. One reporting correction derives temporal unavailability reasons from the actual unavailable current/baseline records; one new regression method covers five subcases. Total test methods: 25. Criterion meanings, arithmetic and cases A–E are unchanged. Release metadata and README describe the final implementation.",
+  "baseline_identity_note": "The baseline_sha256 is the inherited numerical-source fingerprint 7fa29dbab06e9df4aa004e2e176b7b22dee818ea6fe005c51278ffa7a669f0ed, not the submitted Ambio v1.1.4 CLEAN artifact. It is preserved as historical provenance and does not alter the manuscript scientific lineage."
+}

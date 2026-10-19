@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "baseline_filename",
+    "baseline_sha256",
+    "synthetic",
+    "uncertainty_kind",
+    "coverage_claim",
+    "records"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "synthetic": {
+      "const": true
+    },
+    "uncertainty_kind": {
+      "const": "assumed_bounds"
+    },
+    "coverage_claim": {
+      "type": "null"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "scenario_id",
+          "stratum_id",
+          "quantity_id",
+          "support_id",
+          "unit",
+          "time_support",
+          "status",
+          "lower",
+          "upper",
+          "missing_reason",
+          "source_locator"
+        ],
+        "properties": {
+          "scenario_id": {
+            "enum": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ]
+          },
+          "quantity_id": {
+            "enum": [
+              "stock",
+              "panel_stock",
+              "sediment",
+              "panel_sediment",
+              "conversion",
+              "baseline_stock"
+            ]
+          },
+          "status": {
+            "enum": [
+              "eligible",
+              "missing",
+              "ineligible"
+            ]
+          },
+          "lower": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "upper": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

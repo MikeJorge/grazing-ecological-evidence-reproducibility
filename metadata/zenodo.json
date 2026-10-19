@@ -1,0 +1,67 @@
+{
+  "title": "Matching ecological indicator claims to evidence in grazing assessment — reproducibility materials",
+  "resource_type": {
+    "id": "software"
+  },
+  "creators": [
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Allim Jorge",
+        "given_name": "Michael",
+        "name": "Allim Jorge, Michael"
+      }
+    }
+  ],
+  "publication_date": "2026-10-19",
+  "version": "1.2.1",
+  "publisher": "Zenodo",
+  "doi": "10.5281/zenodo.23483050",
+  "rights": [
+    {
+      "id": "mit"
+    },
+    {
+      "id": "cc-by-4.0"
+    }
+  ],
+  "license_scope": "MIT: original Python code/tests; CC BY 4.0: original data, documentation, configuration and figure outputs. Retained third-party notices and method-parameter exclusions: NOTICE.md and metadata/file_rights.json.",
+  "description": "Deterministic Python reproduction of five stipulated synthetic grazing-assessment cases and Figure 1. Includes synthetic inputs, protocol/configuration, source, 25 unit tests, expected outputs and reproduction instructions. No field observations or ecological validation are supplied.",
+  "subjects": [
+    {
+      "subject": "ecological indicators"
+    },
+    {
+      "subject": "grazing assessment"
+    },
+    {
+      "subject": "synthetic examples"
+    },
+    {
+      "subject": "evidence interpretation"
+    },
+    {
+      "subject": "reproducibility"
+    }
+  ],
+  "languages": [
+    {
+      "id": "eng"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/MikeJorge/grazing-ecological-evidence-reproducibility/releases/tag/ei-v1.2.1-reproducibility",
+      "scheme": "url",
+      "relation_type": {
+        "id": "isidenticalto"
+      },
+      "resource_type": {
+        "id": "software"
+      }
+    }
+  ],
+  "repository_url": "https://github.com/MikeJorge/grazing-ecological-evidence-reproducibility",
+  "programming_language": "Python",
+  "funding": "FAPESP postdoctoral fellowship 2025/04640-1 awarded to Michael Allim Jorge. The funder had no role in conceptual design, development or analysis of the synthetic scenarios, interpretation, preparation of the manuscript, or decision to submit."
+}

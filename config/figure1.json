@@ -1,0 +1,305 @@
+{
+  "schema_version": "1.0",
+  "width_inches": 7.2,
+  "height_inches": 6.75,
+  "font_family": "DejaVu Sans",
+  "font_size_pt": 10,
+  "text_color": "#1b2730",
+  "arrow_color": "#4a5763",
+  "preview_dpi": 300,
+  "boxes": [
+    {
+      "id": "protocol",
+      "rect": [
+        2,
+        87.5,
+        96,
+        10.5
+      ],
+      "text": "Prespecify the question and protocol\nDomain, strata, supports, windows, criteria, and benchmarks",
+      "fill": "#edf0f2",
+      "edge": "#4a5763",
+      "font_size_pt": 10
+    },
+    {
+      "id": "soil",
+      "rect": [
+        2,
+        70,
+        46,
+        12
+      ],
+      "text": "K1 and K2: comparative soil criteria\nCarbon stock and sediment export\nTarget and panel-mean uncertainty",
+      "fill": "#edf0f2",
+      "edge": "#4a5763",
+      "font_size_pt": 9.5
+    },
+    {
+      "id": "safeguard",
+      "rect": [
+        52,
+        70,
+        46,
+        12
+      ],
+      "text": "K3: normative no-conversion safeguard\nActual gross conversion within fixed F\nFixed window; event and area uncertainty",
+      "fill": "#edf0f2",
+      "edge": "#4a5763",
+      "font_size_pt": 9.5
+    },
+    {
+      "id": "eligibility",
+      "rect": [
+        2,
+        55,
+        96,
+        10
+      ],
+      "text": "Check validity and eligibility; derive margin intervals\nInvalid input: stop for correction. Missing/ineligible: retain reason.",
+      "fill": "#edf0f2",
+      "edge": "#4a5763",
+      "font_size_pt": 9.5
+    },
+    {
+      "id": "V",
+      "rect": [
+        2,
+        39.5,
+        30,
+        10
+      ],
+      "text": "V: upper bound < 0\nNonfulfillment supported",
+      "fill": "#fdf0e5",
+      "edge": "#cc5d00",
+      "font_size_pt": 10
+    },
+    {
+      "id": "A",
+      "rect": [
+        35,
+        39.5,
+        30,
+        10
+      ],
+      "text": "A: lower bound ≥ 0\nSatisfaction supported",
+      "fill": "#e5f0f8",
+      "edge": "#0079b4",
+      "font_size_pt": 10
+    },
+    {
+      "id": "I",
+      "rect": [
+        68,
+        39.5,
+        30,
+        10
+      ],
+      "text": "I: otherwise\nIndeterminate",
+      "fill": "#edf0f2",
+      "edge": "#4a5763",
+      "font_size_pt": 10
+    },
+    {
+      "id": "profile",
+      "rect": [
+        2,
+        24,
+        96,
+        11
+      ],
+      "text": "Report the complete criterion profile and joint conclusion\nAny V → V; all required A → A; otherwise → I\nKeep current condition and temporal stock change separate",
+      "fill": "#edf0f2",
+      "edge": "#4a5763",
+      "font_size_pt": 9.5
+    },
+    {
+      "id": "decision",
+      "rect": [
+        2,
+        2,
+        96,
+        15
+      ],
+      "text": "Separate decision appraisal\nPlausible harm, urgency, feasibility, rights, responsibility\nInvestigate, consider management options, or wait\nNo action is selected by A, V, or I alone",
+      "fill": "#f0ecf5",
+      "edge": "#72578f",
+      "font_size_pt": 10
+    }
+  ],
+  "arrows": [
+    {
+      "from": [
+        27,
+        86.8
+      ],
+      "to": [
+        25,
+        82.7
+      ]
+    },
+    {
+      "from": [
+        73,
+        86.8
+      ],
+      "to": [
+        75,
+        82.7
+      ]
+    },
+    {
+      "from": [
+        25,
+        69.4
+      ],
+      "to": [
+        37,
+        65.7
+      ]
+    },
+    {
+      "from": [
+        75,
+        69.4
+      ],
+      "to": [
+        63,
+        65.7
+      ]
+    },
+    {
+      "from": [
+        17,
+        54.4
+      ],
+      "to": [
+        17,
+        50.2
+      ]
+    },
+    {
+      "from": [
+        50,
+        54.4
+      ],
+      "to": [
+        50,
+        50.2
+      ]
+    },
+    {
+      "from": [
+        83,
+        54.4
+      ],
+      "to": [
+        83,
+        50.2
+      ]
+    },
+    {
+      "from": [
+        17,
+        38.8
+      ],
+      "to": [
+        17,
+        35.7
+      ]
+    },
+    {
+      "from": [
+        50,
+        38.8
+      ],
+      "to": [
+        50,
+        35.7
+      ]
+    },
+    {
+      "from": [
+        83,
+        38.8
+      ],
+      "to": [
+        83,
+        35.7
+      ]
+    },
+    {
+      "from": [
+        50,
+        23.4
+      ],
+      "to": [
+        50,
+        17.7
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "position": [
+        72,
+        21
+      ],
+      "text": "Evidence informs judgment"
+    }
+  ],
+  "color_vision_method": "Machado et al. 2009 full-severity matrices applied to linear sRGB vector colors; diagnostic simulations, not accessibility certification",
+  "color_vision_matrices": {
+    "protanopia": [
+      [
+        0.152286,
+        1.052583,
+        -0.204868
+      ],
+      [
+        0.114503,
+        0.786281,
+        0.099216
+      ],
+      [
+        -0.003882,
+        -0.048116,
+        1.051998
+      ]
+    ],
+    "deuteranopia": [
+      [
+        0.367322,
+        0.860646,
+        -0.227968
+      ],
+      [
+        0.280085,
+        0.672501,
+        0.047413
+      ],
+      [
+        -0.01182,
+        0.04294,
+        0.968881
+      ]
+    ],
+    "tritanopia": [
+      [
+        1.255528,
+        -0.076749,
+        -0.178779
+      ],
+      [
+        -0.078411,
+        0.930809,
+        0.147602
+      ],
+      [
+        0.004733,
+        0.691367,
+        0.3039
+      ]
+    ]
+  },
+  "intended_print_width_inches": 6.5
+}

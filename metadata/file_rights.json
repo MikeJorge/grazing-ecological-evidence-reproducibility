@@ -1,0 +1,287 @@
+{
+  "version": "1.2.1",
+  "files": [
+    {
+      "path": ".gitignore",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "CITATION.cff",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "LICENSE-CODE",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "MIT",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "LICENSE-DATA-DOCS",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "LICENSES/DejaVu.txt",
+      "rightsholder": "DejaVu/Bitstream contributors; see original notice",
+      "license": "LicenseRef-DejaVu-Bitstream-notice",
+      "scope_note": "Unmodified third-party license notice"
+    },
+    {
+      "path": "NOTICE.md",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "README.md",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "config/figure1.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "Original configuration; numeric CVD method parameters excluded from exclusive copyright claim; attribution in NOTICE.md"
+    },
+    {
+      "path": "config/protocol.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "data/synthetic_inputs.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "docs/figure_descriptions.md",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "docs/reproduction.md",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "docs/worked_calculations.md",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "environment.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "expected/table1_expected.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "figures/figure1.py",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "MIT",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "metadata/file_rights.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "metadata/zenodo.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/Figure_1.pdf",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "Original content only; embedded font subsets retain NOTICE.md exceptions"
+    },
+    {
+      "path": "outputs/Figure_1.png",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/Figure_1.svg",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/Figure_1_deuteranopia.pdf",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "Original content only; embedded font subsets retain NOTICE.md exceptions"
+    },
+    {
+      "path": "outputs/Figure_1_deuteranopia.png",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/Figure_1_deuteranopia.svg",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/Figure_1_grayscale.pdf",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "Original content only; embedded font subsets retain NOTICE.md exceptions"
+    },
+    {
+      "path": "outputs/Figure_1_grayscale.png",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/Figure_1_grayscale.svg",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/Figure_1_layout_checks.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/Figure_1_protanopia.pdf",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "Original content only; embedded font subsets retain NOTICE.md exceptions"
+    },
+    {
+      "path": "outputs/Figure_1_protanopia.png",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/Figure_1_protanopia.svg",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/Figure_1_tritanopia.pdf",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "Original content only; embedded font subsets retain NOTICE.md exceptions"
+    },
+    {
+      "path": "outputs/Figure_1_tritanopia.png",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/Figure_1_tritanopia.svg",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/results.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "outputs/table1.csv",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "provenance/version_crosswalk.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "reproduce_all.py",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "MIT",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "requirements.lock",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "schema/expected_output.schema.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "schema/protocol.schema.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "schema/provenance.schema.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "schema/synthetic_inputs.schema.json",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "CC-BY-4.0",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "src/reproduce.py",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "MIT",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    },
+    {
+      "path": "tests/test_rules.py",
+      "rightsholder": "Michael Allim Jorge (original material)",
+      "license": "MIT",
+      "scope_note": "See NOTICE.md for general scope and exclusions"
+    }
+  ]
+}

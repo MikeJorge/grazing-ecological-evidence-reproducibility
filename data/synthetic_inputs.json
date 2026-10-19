@@ -1,0 +1,475 @@
+{
+  "schema_version": "1.0",
+  "baseline_filename": "synthetic_source_reference.docx",
+  "baseline_sha256": "7fa29dbab06e9df4aa004e2e176b7b22dee818ea6fe005c51278ffa7a669f0ed",
+  "synthetic": true,
+  "uncertainty_kind": "assumed_bounds",
+  "coverage_claim": null,
+  "records": [
+    {
+      "scenario_id": "A",
+      "stratum_id": "s1",
+      "quantity_id": "stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "42",
+      "upper": "46",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "A",
+      "stratum_id": "s1",
+      "quantity_id": "panel_stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "50",
+      "upper": "54",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "A",
+      "stratum_id": "s1",
+      "quantity_id": "sediment",
+      "support_id": "sediment",
+      "unit": "Mg ha^-1",
+      "time_support": [
+        "4",
+        "5"
+      ],
+      "status": "missing",
+      "lower": null,
+      "upper": null,
+      "missing_reason": "sediment unavailable",
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "A",
+      "stratum_id": "s1",
+      "quantity_id": "panel_sediment",
+      "support_id": "sediment",
+      "unit": "Mg ha^-1",
+      "time_support": [
+        "4",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0.8",
+      "upper": "1.2",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "A",
+      "stratum_id": "s1",
+      "quantity_id": "conversion",
+      "support_id": "conversion",
+      "unit": "ha",
+      "time_support": [
+        "0",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0",
+      "upper": "0.3",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "A",
+      "stratum_id": "s1",
+      "quantity_id": "baseline_stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "0"
+      ],
+      "status": "missing",
+      "lower": null,
+      "upper": null,
+      "missing_reason": "baseline stock not supplied",
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "B",
+      "stratum_id": "s1",
+      "quantity_id": "stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "56",
+      "upper": "60",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "B",
+      "stratum_id": "s1",
+      "quantity_id": "panel_stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "50",
+      "upper": "54",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "B",
+      "stratum_id": "s1",
+      "quantity_id": "sediment",
+      "support_id": "sediment",
+      "unit": "Mg ha^-1",
+      "time_support": [
+        "4",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0.2",
+      "upper": "0.4",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "B",
+      "stratum_id": "s1",
+      "quantity_id": "panel_sediment",
+      "support_id": "sediment",
+      "unit": "Mg ha^-1",
+      "time_support": [
+        "4",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0.8",
+      "upper": "1.2",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "B",
+      "stratum_id": "s1",
+      "quantity_id": "conversion",
+      "support_id": "conversion",
+      "unit": "ha",
+      "time_support": [
+        "0",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0",
+      "upper": "0.3",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "B",
+      "stratum_id": "s1",
+      "quantity_id": "baseline_stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "0"
+      ],
+      "status": "missing",
+      "lower": null,
+      "upper": null,
+      "missing_reason": "baseline stock not supplied",
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "C",
+      "stratum_id": "s1",
+      "quantity_id": "stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "56",
+      "upper": "60",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "C",
+      "stratum_id": "s1",
+      "quantity_id": "panel_stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "50",
+      "upper": "54",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "C",
+      "stratum_id": "s1",
+      "quantity_id": "sediment",
+      "support_id": "sediment",
+      "unit": "Mg ha^-1",
+      "time_support": [
+        "4",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0.2",
+      "upper": "0.4",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "C",
+      "stratum_id": "s1",
+      "quantity_id": "panel_sediment",
+      "support_id": "sediment",
+      "unit": "Mg ha^-1",
+      "time_support": [
+        "4",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0.8",
+      "upper": "1.2",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "C",
+      "stratum_id": "s1",
+      "quantity_id": "conversion",
+      "support_id": "conversion",
+      "unit": "ha",
+      "time_support": [
+        "0",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0.4",
+      "upper": "0.6",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "C",
+      "stratum_id": "s1",
+      "quantity_id": "baseline_stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "0"
+      ],
+      "status": "missing",
+      "lower": null,
+      "upper": null,
+      "missing_reason": "baseline stock not supplied",
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "D",
+      "stratum_id": "s1",
+      "quantity_id": "stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "42",
+      "upper": "46",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "D",
+      "stratum_id": "s1",
+      "quantity_id": "panel_stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "50",
+      "upper": "54",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "D",
+      "stratum_id": "s1",
+      "quantity_id": "sediment",
+      "support_id": "sediment",
+      "unit": "Mg ha^-1",
+      "time_support": [
+        "4",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0.2",
+      "upper": "0.4",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "D",
+      "stratum_id": "s1",
+      "quantity_id": "panel_sediment",
+      "support_id": "sediment",
+      "unit": "Mg ha^-1",
+      "time_support": [
+        "4",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0.8",
+      "upper": "1.2",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "D",
+      "stratum_id": "s1",
+      "quantity_id": "conversion",
+      "support_id": "conversion",
+      "unit": "ha",
+      "time_support": [
+        "0",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0",
+      "upper": "0.3",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "D",
+      "stratum_id": "s1",
+      "quantity_id": "baseline_stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "0"
+      ],
+      "status": "eligible",
+      "lower": "34",
+      "upper": "36",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "E",
+      "stratum_id": "s1",
+      "quantity_id": "stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "56",
+      "upper": "60",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "E",
+      "stratum_id": "s1",
+      "quantity_id": "panel_stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "50",
+      "upper": "54",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "E",
+      "stratum_id": "s1",
+      "quantity_id": "sediment",
+      "support_id": "sediment",
+      "unit": "Mg ha^-1",
+      "time_support": [
+        "4",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0.2",
+      "upper": "0.4",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "E",
+      "stratum_id": "s1",
+      "quantity_id": "panel_sediment",
+      "support_id": "sediment",
+      "unit": "Mg ha^-1",
+      "time_support": [
+        "4",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0.8",
+      "upper": "1.2",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "E",
+      "stratum_id": "s1",
+      "quantity_id": "conversion",
+      "support_id": "conversion",
+      "unit": "ha",
+      "time_support": [
+        "0",
+        "5"
+      ],
+      "status": "eligible",
+      "lower": "0",
+      "upper": "0.3",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    },
+    {
+      "scenario_id": "E",
+      "stratum_id": "s1",
+      "quantity_id": "baseline_stock",
+      "support_id": "stock",
+      "unit": "Mg C ha^-1",
+      "time_support": [
+        "0"
+      ],
+      "status": "eligible",
+      "lower": "64",
+      "upper": "66",
+      "missing_reason": null,
+      "source_locator": "Supplementary Information v0.2.0, S2 and Table S1; outputs in Table S2"
+    }
+  ]
+}
