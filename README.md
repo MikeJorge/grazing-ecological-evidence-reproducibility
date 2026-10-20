@@ -88,7 +88,7 @@ Tests beyond cases A–E exercise algorithm behavior only. Altering a criterion,
 
 ## Version and provenance notes
 
-This README was reorganized after release to improve navigation and explain the existing demonstration. **The scientific package remains v1.2.1.** The tagged release and Zenodo archive retain their original documentation and bytes; the default branch records this documentation update in [CHANGELOG.md](CHANGELOG.md).
+This README was reorganized after release to improve navigation and explain the existing demonstration. **The scientific package remains v1.2.1.** The Git tag retains the original source snapshot. The release asset and existing Zenodo record receive only the authorized creator-name correction (given names: Michael Allim; family name: Jorge), with matching updated checksums; scientific files, version and DOI are unchanged. The default branch retains the later documentation update recorded in [CHANGELOG.md](CHANGELOG.md).
 
 Two isolated builds of the final v1.2.1 implementation produced identical bytes for all 18 deterministic outputs. Those outputs also matched their historical v0.2.0 / canonical v1.2.0 counterparts. The v1.2.1 reporting correction derives temporal-unavailability reasons from the actual unavailable current-stock and baseline-stock records; its regression test changes neither criterion logic nor case A–E outputs.
 
@@ -96,7 +96,7 @@ The [version crosswalk](provenance/version_crosswalk.json) maps inherited `Suppl
 
 ## Citation
 
-Allim Jorge, M. (2026). *Matching ecological indicator claims to evidence in grazing assessment — reproducibility materials* (Version 1.2.1) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.23483050](https://doi.org/10.5281/zenodo.23483050).
+Jorge, M.A. (2026). *Matching ecological indicator claims to evidence in grazing assessment — reproducibility materials* (Version 1.2.1) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.23483050](https://doi.org/10.5281/zenodo.23483050).
 
 Machine-readable citation: [CITATION.cff](CITATION.cff). Archival metadata: [metadata/zenodo.json](metadata/zenodo.json). The DOI identifies the versioned reproducibility archive; it is not a manuscript DOI.
 

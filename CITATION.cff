@@ -3,8 +3,8 @@ message: "Please cite this versioned reproducibility package."
 type: software
 title: "Matching ecological indicator claims to evidence in grazing assessment — reproducibility materials"
 authors:
-  - family-names: "Allim Jorge"
-    given-names: "Michael"
+  - family-names: "Jorge"
+    given-names: "Michael Allim"
 version: "1.2.1"
 date-released: "2026-10-19"
 doi: "10.5281/zenodo.23483050"
